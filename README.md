@@ -1,7 +1,7 @@
-##############
-BUSIENESS_MENU
-##############
-GUI developed in Python3. Tested in Linux Mint 18.2 and Windows 10.
+Business_Menu
+
+GUI developed in Python3. 
+Tested in Linux Mint 18.2 and Windows 10.
 
 It is a work in progress, part of a Business Management desktop application I've been working on.
 
@@ -11,4 +11,3 @@ order with the items bought on that account and the quantity of each item.
 
 I am working on the "Total" money owed by that client and the "Pay" button that should reset the client's list for
 the next client while saving the info of that payed account on another file for later reference.
-
