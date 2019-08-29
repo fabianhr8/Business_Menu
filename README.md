@@ -1,4 +1,5 @@
-Business_Menu
+# Business_Menu
+Manages client's orders and the items on a business inventory
 
 GUI developed in Python3. 
 Tested in Linux Mint 18.2 and Windows 10.
